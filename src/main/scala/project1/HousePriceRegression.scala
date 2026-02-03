@@ -8,11 +8,12 @@ object HousePriceRegression {
   val dataName = "HousePriceRegression"
   val data: Dataset = Dataset(dataName, filePath, 8, Array(0, 1, 2, 3, 4, 5, 6), 7)
 
-
   @main def run(): Unit = {
-    Project1Utils.runLinearRegressions(data.x, data.y)
-    Project1Utils.runRidgeRegressions(data.x, data.y)
-    Project1Utils.runLassoRegressions(data.x, data.y)
-    Project1Utils.runSymRidgeRegression(data.x, data.y)
+    val utils = new Project1Utils(data.x, data.y, data.fname)
+    utils.runLinearRegressions()
+    utils.runRidgeRegressions()
+    utils.runLassoRegressions()
+    utils.runTransformedRegressions()
+    utils.runSymRidgeRegression()
   }
 }

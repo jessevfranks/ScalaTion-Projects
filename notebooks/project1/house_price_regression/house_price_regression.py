@@ -5,7 +5,7 @@ from project1.project1_utils import Project1Utils
 
 
 def main():
-    file_path = os.path.expanduser('../../../data/project1/house_price_regression_dataset.csv')
+    file_path = os.path.expanduser('../../../data/project1/house_price_regression_dataset_cleaned.csv')
 
     df = pd.read_csv(file_path)
 

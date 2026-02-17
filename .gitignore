@@ -49,3 +49,17 @@ build/
 
 ### Scala ###
 .bsp/
+
+# Scala / Metals / Bloop
+.metals/
+.bloop/
+.vscode/
+target/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store

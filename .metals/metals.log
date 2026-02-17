@@ -1,0 +1,673 @@
+2026.02.11 23:26:42 INFO  Started: Metals version 1.6.5 in folders '/Users/aidyn/Desktop/ScalaTion-Projects' for client Visual Studio Code 1.85.1.
+2026.02.11 23:26:42 INFO  Memory monitor started
+2026.02.11 23:26:43 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+Feb 11, 2026 11:26:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.02.11 23:46:55 INFO  Shutting down server
+2026.02.11 23:46:55 INFO  Memory monitor stopped
+2026.02.11 23:46:55 INFO  shutting down Metals
+2026.02.11 23:46:55 INFO  Exiting server
+2026.02.11 23:46:55 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.lang.Thread.run(Thread.java:1474)
+
+2026.02.11 23:47:26 INFO  Started: Metals version 1.6.5 in folders '/Users/aidyn/Desktop/ScalaTion-Projects' for client Visual Studio Code 1.85.1.
+2026.02.11 23:47:26 INFO  Memory monitor started
+2026.02.11 23:47:29 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.11 23:53:50 INFO  Shutting down server
+2026.02.11 23:53:50 INFO  Memory monitor stopped
+2026.02.11 23:53:50 INFO  shutting down Metals
+2026.02.11 23:53:50 INFO  Exiting server
+2026.02.11 23:53:50 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.lang.Thread.run(Thread.java:1474)
+
+2026.02.12 13:16:43 INFO  Started: Metals version 1.6.5 in folders '/Users/aidyn/Desktop/ScalaTion-Projects' for client Visual Studio Code 1.85.1.
+2026.02.12 13:16:43 INFO  Memory monitor started
+2026.02.12 13:16:43 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.12 14:02:14 INFO  Shutting down server
+2026.02.12 14:02:14 INFO  Memory monitor stopped
+2026.02.12 14:02:14 INFO  shutting down Metals
+2026.02.12 14:02:14 INFO  Exiting server
+2026.02.12 14:02:14 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.lang.Thread.run(Thread.java:1474)
+
+2026.02.12 14:23:09 INFO  Started: Metals version 1.6.5 in folders '/Users/aidyn/Desktop/ScalaTion-Projects' for client Visual Studio Code 1.85.1.
+2026.02.12 14:23:09 INFO  Memory monitor started
+2026.02.12 14:23:10 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.12 18:23:06 INFO  Shutting down server
+2026.02.12 18:23:06 INFO  Memory monitor stopped
+2026.02.12 18:23:06 INFO  shutting down Metals
+2026.02.12 18:23:06 INFO  Exiting server
+2026.02.12 18:23:06 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.lang.Thread.run(Thread.java:1474)
+
+2026.02.12 18:29:20 INFO  Started: Metals version 1.6.5 in folders '/Users/aidyn/Desktop/ScalaTion-Projects' for client Visual Studio Code 1.85.1.
+2026.02.12 18:29:20 INFO  Memory monitor started
+2026.02.12 18:29:21 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+Feb 12, 2026 6:32:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.02.12 19:02:51 INFO  Shutting down server
+2026.02.12 19:02:51 INFO  Memory monitor stopped
+2026.02.12 19:02:51 INFO  shutting down Metals
+2026.02.12 19:02:51 INFO  Exiting server
+2026.02.12 19:02:51 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.lang.Thread.run(Thread.java:1474)
+
+2026.02.16 12:43:03 INFO  Started: Metals version 1.6.5 in folders '/Users/aidyn/Desktop/ScalaTion-Projects' for client Visual Studio Code 1.85.1.
+2026.02.16 12:43:03 INFO  Memory monitor started
+2026.02.16 12:43:04 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.16 13:06:41 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:06:41 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:04 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:06 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:06 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:06 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:15 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:15 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:16 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:16 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:16 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:16 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:16 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:16 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:16 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:16 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:16 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:40 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:54 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:54 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:54 WARN  no build target for: /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala
+2026.02.16 13:07:54 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:54 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:54 WARN  Could not find semantic tokens for: file:///Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala
+2026.02.16 13:07:56 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:56 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:07:56 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:07 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:07 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:11 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:11 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:11 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:25 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:25 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:26 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:25 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:27 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:27 WARN  no build target for: /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala
+2026.02.16 13:08:27 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:27 WARN  Could not find semantic tokens for: file:///Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala
+2026.02.16 13:08:29 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:29 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:32 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:32 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:32 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:34 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:34 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:35 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:35 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:36 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:36 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:36 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:36 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:36 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:36 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:36 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:37 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:37 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:37 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:37 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:37 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:39 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:39 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:39 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:39 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:40 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:40 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:40 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:40 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:40 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:41 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:41 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:41 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:41 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:41 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:42 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:43 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:43 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:43 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:45 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:08:53 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:09:28 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:09:28 WARN  no build target for: /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala
+2026.02.16 13:09:28 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:09:28 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:09:28 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:09:32 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:26 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:26 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:26 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:26 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:27 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:27 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:27 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Feb 16, 2026 1:10:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 146
+2026.02.16 13:10:28 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:28 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:28 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:28 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:30 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:30 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:34 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:34 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:34 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:34 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:35 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:35 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:35 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:35 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:35 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:35 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:37 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:37 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:37 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:38 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:38 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:38 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:38 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:38 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:39 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:39 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:40 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:39 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:39 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:39 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:40 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:41 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:40 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:41 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:41 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:41 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:41 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:42 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:42 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:42 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:42 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:43 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:42 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:42 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:43 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:45 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:45 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:47 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:49 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:49 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:52 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/scalation/modeling/autograd/RNNTestForecasting.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Feb 16, 2026 1:10:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 203
+2026.02.16 13:10:52 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/scalation/modeling/autograd/RNNTestForecasting.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:52 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/scalation/modeling/autograd/RNNTestForecasting.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:10:56 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/scalation/modeling/autograd/RNNTestForecasting.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:16 WARN  no build target for: /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala
+2026.02.16 13:11:16 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:16 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:16 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:16 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:23 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:23 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:37 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:37 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:38 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:38 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:38 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:40 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:40 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:40 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:41 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:40 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:41 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:45 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:45 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:45 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:45 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:45 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:11:54 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:12:02 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/scalation/modeling/autograd/RNNTestForecasting.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:12:02 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:12:02 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:14:00 WARN  no build target for: /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala
+2026.02.16 13:14:00 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:14:00 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:14:00 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:14:05 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:14:05 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:14:09 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:14:09 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:14:09 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:14:09 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:17:30 WARN  no build target for: /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala
+2026.02.16 13:17:30 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:17:30 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 13:17:30 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 14:17:06 WARN  no build target for: /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala
+2026.02.16 14:17:06 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 14:17:07 INFO  Shutting down server
+2026.02.16 14:17:07 INFO  Memory monitor stopped
+2026.02.16 14:17:07 INFO  shutting down Metals
+2026.02.16 14:17:07 INFO  Exiting server
+2026.02.16 14:17:07 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.lang.Thread.run(Thread.java:1474)
+
+2026.02.16 19:06:01 INFO  Started: Metals version 1.6.5 in folders '/Users/aidyn/Desktop/ScalaTion-Projects' for client Visual Studio Code 1.85.1.
+2026.02.16 19:06:01 INFO  Memory monitor started
+2026.02.16 19:06:02 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.16 19:06:47 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 19:06:47 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 19:06:49 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 19:06:49 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 19:06:49 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 19:07:06 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 19:07:06 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 19:07:06 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 19:07:09 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 19:07:11 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 19:07:16 WARN  no build target for: /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala
+2026.02.16 19:07:16 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 19:07:16 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 19:07:16 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 19:07:21 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 19:07:21 WARN  no build target for: /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala
+2026.02.16 19:07:21 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 19:07:21 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:27:22 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:27:24 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:27:24 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:27:25 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:27:25 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:27:25 INFO  Created report: Optional[file:///Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala]
+2026.02.16 20:27:25 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/aidyn/Desktop/ScalaTion-Projects/.metals/.reports/metals-full/2026-02-16/r_empty-definition_20-27-25-573.md")
+2026.02.16 20:31:52 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:31:52 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:31:52 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:31:53 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:31:53 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:31:54 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:31:54 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:31:55 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:31:55 INFO  Created report: Optional[file:///Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala]
+2026.02.16 20:31:55 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/aidyn/Desktop/ScalaTion-Projects/.metals/.reports/metals-full/2026-02-16/r_empty-definition_20-31-55-196.md")
+2026.02.16 20:31:58 WARN  no build target for: /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala
+2026.02.16 20:31:58 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:31:58 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:31:58 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:31:58 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:32:00 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:32:00 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:32:00 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:32:00 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:32:00 INFO  Created report: Optional[file:///Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala]
+2026.02.16 20:32:00 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/aidyn/Desktop/ScalaTion-Projects/.metals/.reports/metals-full/2026-02-16/r_empty-definition_20-32-00-978.md")
+2026.02.16 20:32:50 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:32:55 WARN  no build target for: /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala
+2026.02.16 20:32:55 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:32:55 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:32:55 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:32:56 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:33:07 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:33:07 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:33:07 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:33:07 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:33:08 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:33:08 WARN  no build target for: /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala
+2026.02.16 20:33:09 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:33:15 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Feb 16, 2026 8:35:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.02.16 20:41:08 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:41:08 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:41:08 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:41:08 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:41:08 WARN  no build target for: /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala
+2026.02.16 20:41:08 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:41:42 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:06 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:06 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:06 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:08 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/HousePriceRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:08 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:08 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:08 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:09 WARN  no build target for: /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala
+2026.02.16 20:42:09 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:09 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:09 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:10 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:10 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:10 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:11 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:11 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:13 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:13 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:20 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:20 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:20 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:22 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:22 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:22 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:23 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:23 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:23 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:23 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:23 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:23 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:24 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:23 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:42:25 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:45:01 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/Project1Utils.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:20 WARN  no build target for: /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala
+2026.02.16 20:47:20 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:20 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:20 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:20 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:22 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:22 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:22 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:35 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:35 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:35 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:35 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:36 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:35 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:35 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:35 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:35 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:36 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:35 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:37 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:37 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:37 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:37 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:37 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:37 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:37 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:37 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:37 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:38 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:38 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:38 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:38 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:38 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:40 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:40 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:40 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:40 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:41 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:41 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:47:41 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:06 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:06 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:06 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:06 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:06 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:06 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:07 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:07 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:07 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:08 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:08 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:10 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:10 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:10 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:10 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:10 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:10 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:10 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:12 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:12 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:12 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:12 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:13 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:13 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:51 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:51 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:51 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:52 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:52 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:52 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:54 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:56 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:56 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:56 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:56 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:56 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:56 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:56 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:56 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:58 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:58 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:58 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:58 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:48:59 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:49:54 WARN  no build target for: /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala
+2026.02.16 20:49:54 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:50:07 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:50:07 WARN  no build target for: /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala
+2026.02.16 20:50:07 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:50:07 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Feb 16, 2026 8:50:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 310
+2026.02.16 20:50:08 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:50:08 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:50:11 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:50:11 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:50:11 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:50:32 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:50:32 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:50:34 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:51:27 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:51:27 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:51:27 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:51:27 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:51:27 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/aidyn/Desktop/ScalaTion-Projects/.metals/.reports/metals-full/2026-02-16/r_empty-definition_20-32-00-978.md")
+2026.02.16 20:51:27 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:51:27 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/aidyn/Desktop/ScalaTion-Projects/.metals/.reports/metals-full/2026-02-16/r_empty-definition_20-32-00-978.md")
+2026.02.16 20:51:27 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:51:27 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:51:28 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:51:51 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:51:51 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:51:52 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:51:52 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:51:55 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:51:55 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:51:55 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:51:56 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:51:59 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:51:59 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:51:59 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:51:59 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:51:59 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:00 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:00 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:00 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:00 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:06 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:12 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:12 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:26 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:43 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:43 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Feb 16, 2026 8:52:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "git:/Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala?%7B%22path%22%3A%22%2FUsers%2Faidyn%2FDesktop%2FScalaTion-Projects%2Fsrc%2Fmain%2Fscala%2Fproject1%2FWineQualityRegression.scala%22%2C%22ref%22%3A%22%22%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "git" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:778)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:775)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+2026.02.16 20:52:52 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:52 WARN  no build target for: /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala
+2026.02.16 20:52:52 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:52 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:52 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:54 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:54 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:54 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:54 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:54 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:55 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:55 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:55 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:55 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:55 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:55 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:57 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.16 20:52:57 WARN  no build target for: /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala
+2026.02.16 20:52:57 INFO  no build target found for /Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Feb 16, 2026 8:53:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "git:/Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala?%7B%22path%22%3A%22%2FUsers%2Faidyn%2FDesktop%2FScalaTion-Projects%2Fsrc%2Fmain%2Fscala%2Fproject1%2FWineQualityRegression.scala%22%2C%22ref%22%3A%22%22%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "git" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:778)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:775)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+Feb 16, 2026 8:53:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "git:/Users/aidyn/Desktop/ScalaTion-Projects/src/main/scala/project1/WineQualityRegression.scala?%7B%22path%22%3A%22%2FUsers%2Faidyn%2FDesktop%2FScalaTion-Projects%2Fsrc%2Fmain%2Fscala%2Fproject1%2FWineQualityRegression.scala%22%2C%22ref%22%3A%22%22%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "git" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:778)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:775)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+

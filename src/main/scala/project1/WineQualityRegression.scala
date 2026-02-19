@@ -10,7 +10,7 @@ object WineQualityRegression {
 
   @main def run(): Unit = {
     val utils = new Project1Utils(data.x, data.y, data.fname)
-//    utils.runLinearRegressions()
+//  utils.runLinearRegressions()
 //    utils.runRidgeRegressions()
 //    utils.runLassoRegressions()
 //    utils.runTransformedRegressions()

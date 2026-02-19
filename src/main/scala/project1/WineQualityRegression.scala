@@ -14,10 +14,10 @@ object WineQualityRegression {
 //    utils.runRidgeRegressions()
 //    utils.runLassoRegressions()
 //    utils.runTransformedRegressions()
-    utils.runSymRidgeRegression()
+//    utils.runSymRidgeRegression()
 //    utils.runForwardSelect()
 //    utils.runBackwardsElimination()
-    //utils.runStepwiseSelect()
+    utils.runStepwiseSelect()
   }
 }
 
